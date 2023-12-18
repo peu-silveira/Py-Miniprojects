@@ -1,3 +1,6 @@
+# For this game, each player will roll the dice and the goal is to reach 50 points first
+# if you roll a 1, your points reset to 0
+
 import random # random module allows to generate random numbers
 
 def roll(): # creating a roll function

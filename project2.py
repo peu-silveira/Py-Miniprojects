@@ -1,3 +1,6 @@
+# In this Madlibs Generator, we have a story that contains some replaceble words
+# The user chooses whatever word he wants to replace with, according to the type of word
+
 with open("project2.txt", "r") as f: # used the open function that allows me to open the file; the mode "r" is the way which we gona read it (read mode)
     story = f.read() # gives me all the text inside the file   
 
